@@ -1,5 +1,5 @@
 # Steampunkjax Modern Resource Packs
-![SPJ PACK ICON](SPJ_6.0.zip/pack.png)
+![SPJ PACK ICON](gitassets/logo.png)
 
 My Modern Resource Packs, These are Mainly used By Myself on 2b2t.
 Updates and Changes will be made and released as I change or add something.
